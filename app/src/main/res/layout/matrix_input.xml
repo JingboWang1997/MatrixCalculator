@@ -8,8 +8,6 @@
         android:layout_height="match_parent"
         android:id="@+id/matrix_input"
         >
-
-
         <LinearLayout
             android:orientation="vertical"
             android:layout_width="fill_parent"
@@ -28,6 +26,7 @@
                 android:layout_marginTop="10dp" />
         </LinearLayout>
 
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -36,8 +35,5 @@
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
             android:id="@+id/done" />
-
-
-
     </LinearLayout>
  </ScrollView>

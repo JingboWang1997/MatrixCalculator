@@ -29,10 +29,12 @@ public class SetDimension extends AppCompatActivity {
                 EditText colText = (EditText) findViewById(R.id.column);
                 int row = Integer.parseInt(rowText.getText().toString());
                 int col = Integer.parseInt(colText.getText().toString());
-                Matrix matrix = new Matrix(row, col);
-                bundle.putSerializable("matrix", (Serializable) matrix);
-                intent.putExtras(bundle);
-                startActivity(intent);
+                if (row < 10 && col < 10) {
+                    Matrix matrix = new Matrix(row, col);
+                    bundle.putSerializable("matrix", (Serializable) matrix);
+                    intent.putExtras(bundle);
+                    startActivity(intent);
+                }
             }
         });
 
