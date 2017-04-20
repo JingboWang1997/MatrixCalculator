@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app=" "
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/set_dimension"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.wangjingbo.matrix_calculator_10.SetDimension">
+
+    <EditText
+        android:inputType="number"
+        android:id="@+id/row"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="#D3D3D3"
+        android:textSize="50sp"
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_alignLeft="@+id/TitleText" />
+
+
+    <EditText
+        android:inputType="number"
+        android:id="@+id/column"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="#D3D3D3"
+        android:textSize="50sp"
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_alignRight="@+id/TitleText" />
+
+    <TextView
+        android:text="X"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Cross"
+        android:textSize="50sp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/TitleText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Input Dimension"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:layout_marginTop="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Enter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="68dp"
+        android:id="@+id/InitiateMatrix" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/column"
+        android:layout_below="@+id/column"
+        android:text="column"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/row"
+        android:layout_marginLeft="18dp"
+        android:layout_below="@+id/row"
+        android:text="row"
+        android:textSize="20sp" />
+</RelativeLayout>
