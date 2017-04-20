@@ -5,4 +5,5 @@ package com.example.wangjingbo.matrix_calculator_10;
  */
 
 public class ShowResult {
+    //
 }
