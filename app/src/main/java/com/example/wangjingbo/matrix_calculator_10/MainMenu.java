@@ -22,18 +22,17 @@ public class MainMenu extends AppCompatActivity {
         String inputText = "you currently have " + Matrix.theBook.size() + " matrix";
         text.setText(inputText);
 
-        final Intent makeM = new Intent(this, SetDimension.class);
+        final Intent display = new Intent(this, DisplayMatrix.class); // display the next action
+
+        final Intent makeM = new Intent(this, SetDimension.class); //create new matrix
         Button create = (Button) findViewById(R.id.makeMatrix);
         create.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-
                 startActivity(makeM);
             }
         });
 
-        final Intent display = new Intent(this, DisplayMatrix.class);
-
-        final Button show = (Button) findViewById(R.id.showAll);
+        final Button show = (Button) findViewById(R.id.showAll); // show all the current existing matrix
         show.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Bundle b = new Bundle();
@@ -43,7 +42,7 @@ public class MainMenu extends AppCompatActivity {
             }
         });
 
-        final Button multiply = (Button) findViewById(R.id.multiply);
+        final Button multiply = (Button) findViewById(R.id.multiply); // multiply matrices
         multiply.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Bundle b = new Bundle();
@@ -53,7 +52,7 @@ public class MainMenu extends AppCompatActivity {
             }
         });
 
-        final Button rowEchelon = (Button) findViewById(R.id.rowEchelon);
+        final Button rowEchelon = (Button) findViewById(R.id.rowEchelon); // row echelon
         rowEchelon.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Bundle b = new Bundle();
@@ -63,7 +62,7 @@ public class MainMenu extends AppCompatActivity {
             }
         });
 
-        final Button reducedRowEchelon = (Button) findViewById(R.id.reducedRowEchelon);
+        final Button reducedRowEchelon = (Button) findViewById(R.id.reducedRowEchelon); // reduced row echelon
         reducedRowEchelon.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Bundle b = new Bundle();
@@ -73,7 +72,7 @@ public class MainMenu extends AppCompatActivity {
             }
         });
 
-        final Button inverse = (Button) findViewById(R.id.inverse);
+        final Button inverse = (Button) findViewById(R.id.inverse); // inverse matrix
         inverse.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Bundle b = new Bundle();
@@ -83,21 +82,11 @@ public class MainMenu extends AppCompatActivity {
             }
         });
 
-        final Button lu = (Button) findViewById(R.id.lu);
+        final Button lu = (Button) findViewById(R.id.lu); // LU factorization
         lu.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Bundle b = new Bundle();
                 b.putString("command", "LU");
-                display.putExtras(b);
-                startActivity(display);
-            }
-        });
-
-        final Button delete = (Button) findViewById(R.id.delete);
-        delete.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                Bundle b = new Bundle();
-                b.putString("command", "DELETE");
                 display.putExtras(b);
                 startActivity(display);
             }

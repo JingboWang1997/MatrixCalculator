@@ -19,7 +19,7 @@ public class SetDimension extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.set_dimension);
 
-        final Intent intent = new Intent(this, MatrixInput.class);
+        final Intent intent = new Intent(this, MatrixInput.class); // intent to the next matrix building class
         final Bundle bundle = new Bundle();
 
         Button button = (Button) findViewById(R.id.InitiateMatrix);
@@ -27,7 +27,6 @@ public class SetDimension extends AppCompatActivity {
             public void onClick(View v) {
                 EditText rowText = (EditText) findViewById(R.id.row);
                 EditText colText = (EditText) findViewById(R.id.column);
-                String r = rowText.getText().toString();
                 int row = Integer.parseInt(rowText.getText().toString());
                 int col = Integer.parseInt(colText.getText().toString());
                 Matrix matrix = new Matrix(row, col);
