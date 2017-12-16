@@ -3,30 +3,12 @@
 
     <item
         is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_0cbd3fc269386bcb643bf973d29e9d7813939496/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1a04ac26e96fedd9c8a44c690209528990c53897/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d23453068c8c0ea35ca0af61fbe492eb37a002ed/classes.dex" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_98bce61b64cc5f72b0600a776cc192bb497eaa93/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -35,124 +17,142 @@
         optimize="true"
         revision="24.0.2"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_d2776094a7b5aefe8e56e8fb7491642f5cec06dc/classes.dex" />
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_d2776094a7b5aefe8e56e8fb7491642f5cec06dc/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f4b3757e9b4bbab1e7622aeeb092fe51452886b8">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f9df997a548d6ffe64814ffbbc1e58ebdf7e1911/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_cb81d7a6b0185f303ae6a10cfd67a7e5bd63bb7a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_dfca255ee0cee5a0613dd4982b2b6da245dcb0d4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_7093dd785c981d2f0d5bdca8e6782616c616b9ca/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_feffc317578c93bbf9dbf6f49efb351f63021f6a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_4fcdbf1c64ced0d817e7b3e9a99a748d54e1cb48/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c70dbec89777e5c7ebc7bbc16d992c2d46afbff8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_23ffda385d890a41ba13316e0643591eabc6bfe6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6d6ebee40b82c4c99d6dad8872ffbbc77128f686/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_01e3463502236c45f248667db72441f5b116ed13/classes.dex" />
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_28c01fe070b5f5e855f8718773036d3a09745307/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7e58f07c1d5f39d402d840bd9d6b875fc1e5e48e">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e83b3710f1c91ba538a08c5b0d6289702ca5fa45/classes.dex" />
+        sha1="02eb2690a9ab69e953c8edb6df5af19f042c61f5">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0ff71f14f8a90245774f810a329b06dc3dc96b74/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c99d887e62b3f5a486856aa0e0faaf5a9b15ecc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_47954ca296662b9485c96b9dd4ac14bc409ed376/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_858a13e4bac352cb04adb261f37855419a25df83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_68db4b55e933d5e9f9adf9308ff436b3e45320cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="329971b222d8df6efd6c3990f25a57044c7bc452">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7eaf9cd5f3f6ff9e529e124e4a9825742a11481/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_92d6e4500a0bab104c65973c9cedaa7b6c09b0c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_51fc0796cc0c3e6490c4b406ba6a07a9134fc102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_72d7c952c1bb2b447c03c1d14118c3a66aad06aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_16fb09d5a45ca22a8fb21452d232522d5b2c126a/classes.dex" />
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_da68b772a5c765226404020304846784ad8a485b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_b1b4e0739e1ea9c6dcd64651c8f9f532337f3c15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_93b6a0e6a30a161b8f2d1ad1f564dc6eb7bdc0eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ffe1f8958606856e20ffece20df2fa19d33b1814/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/wangjingbo/Desktop/Personal/programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_49b7afaaa6961df7e14c288e3422f700a0fdca8a/classes.dex" />
+        <dex dex="/Users/wangjingbo/Jingbo/Programming/programming projects/MatrixCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_91edf78aed90aef229b7e9da65fe9dc945f5b370/classes.dex" />
     </item>
 
 </items>
