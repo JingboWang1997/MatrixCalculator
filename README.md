@@ -1,7 +1,4 @@
 # MatrixCalculator
 
-first android app, unfiished
-
-probably not going to finish
-
-a good start
+first android app, unfinished
+(directly run on android studio)
